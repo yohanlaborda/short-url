@@ -124,6 +124,6 @@ return [
     ],
 
     'urlProvider' => [
-        'tinyUrl' => env('TYNY_URL', '')
+        'tinyUrl' => env('TINY_URL', '')
     ]
 ];
